@@ -2033,11 +2033,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo\\Downloads\\alura-identity-Aula-4\\UsuariosApi\\UsuariosApi.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo\\Source\\Repos\\guustavo07\\IdentityUser\\UsuariosApi\\UsuariosApi.csproj",
       "projectName": "UsuariosApi",
-      "projectPath": "C:\\Users\\Gustavo\\Downloads\\alura-identity-Aula-4\\UsuariosApi\\UsuariosApi.csproj",
+      "projectPath": "C:\\Users\\Gustavo\\Source\\Repos\\guustavo07\\IdentityUser\\UsuariosApi\\UsuariosApi.csproj",
       "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo\\Downloads\\alura-identity-Aula-4\\UsuariosApi\\obj\\",
+      "outputPath": "C:\\Users\\Gustavo\\Source\\Repos\\guustavo07\\IdentityUser\\UsuariosApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
